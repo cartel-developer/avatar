@@ -1,6 +1,6 @@
 # Avatar Maker
 
-## usage :
+## Usage :
 
 ```sh
 $ git clone https://github.com/cartel-developer/avatar.git
@@ -9,7 +9,7 @@ $ bash avatar.sh [COLOR WITHOUT #]
 
 ```
 
-### Example :
+## Example :
 
 ```sh
 
@@ -23,7 +23,7 @@ $ bash avatar.sh 000000
 $ bash avatar.sh 555555
 ```
 
-### Image
+## Image :
 ![Logo](Assets/Screenshot/Screenshot_1.png)
 ![Logo](Assets/Screenshot/Screenshot_2.png)
 
