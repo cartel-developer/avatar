@@ -7,3 +7,8 @@ bash avatar.sh COLOR
 
 000000 : balck
 
+### Image
+![Logo](Assets/Screenshot/Screenshot_1.png)
+![Logo](Assets/Screenshot/Screenshot_2.png)
+
+
