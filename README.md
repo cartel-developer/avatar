@@ -5,7 +5,8 @@ bash avatar.sh COLOR
 ### COLOR TYPE
 #### hex without hashtag
 
-000000 : balck
+example => black :
+bash avatar.sh 000000
 
 ### Image
 ![Logo](Assets/Screenshot/Screenshot_1.png)
