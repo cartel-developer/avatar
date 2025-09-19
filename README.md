@@ -1,19 +1,27 @@
-# usage:
+# Avatar Maker
+
+## usage :
 
 ```sh
 $ git clone https://github.com/cartel-developer/avatar.git
 $ cd avatar
 $ bash avatar.sh [COLOR WITHOUT #]
 
-# Example: bash avatar.sh 001BB7
-
 ```
 
-### COLOR TYPE
-#### hex without hashtag
+### Example :
 
-example => black :
-bash avatar.sh 000000
+```sh
+
+# Purple
+$ bash avatar.sh 001BB7
+
+# black
+$ bash avatar.sh 000000
+
+# gray
+$ bash avatar.sh 555555
+```
 
 ### Image
 ![Logo](Assets/Screenshot/Screenshot_1.png)
