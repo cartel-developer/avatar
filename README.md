@@ -3,7 +3,10 @@
 ```sh
 $ git clone https://github.com/cartel-developer/avatar.git
 $ cd avatar
-$ bash avatar.sh [COLOR]
+$ bash avatar.sh [COLOR WITHOUT #]
+
+# Example: bash avatar.sh 001BB7
+
 ```
 
 ### COLOR TYPE
