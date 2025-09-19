@@ -1,8 +1,10 @@
 # usage:
-git clone https://github.com/cartel-developer/avatar.git
-cd avatar
-bash avatar.sh [COLOR]
 
+```sh
+$ git clone https://github.com/cartel-developer/avatar.git
+$ cd avatar
+$ bash avatar.sh [COLOR]
+```
 
 ### COLOR TYPE
 #### hex without hashtag
